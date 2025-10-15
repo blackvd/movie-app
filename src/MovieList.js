@@ -3,7 +3,7 @@ import MovieCard from "./MovieCard";
 
 function MovieList({movies}) {
     return (
-        <Row>
+        <Row className="justify-content-center">
             {movies.map((movie, index) => (
                 <MovieCard key={index} movie={movie}/>
             )) }

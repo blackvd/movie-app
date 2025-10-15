@@ -1,62 +1,65 @@
 [
   {
-    "title": "Inception",
-    "description": "A skilled thief who steals secrets through dream-sharing technology is given a task to plant an idea into someone's mind.",
-    "posterURL": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
-    "rating": 8.8
-  },
-  {
     "title": "The Dark Knight",
     "description": "Batman faces the Joker, a psychopathic criminal who seeks to plunge Gotham City into anarchy.",
     "posterURL": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "rating": 9.0
+    "rating": 9.0,
+    "trailerLink": "https://www.youtube.com/embed/YoHD9XEInc0"
   },
   {
     "title": "Interstellar",
     "description": "In a future where Earth is dying, a group of explorers travels through a wormhole to find a new habitable planet.",
     "posterURL": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
-    "rating": 8.6
+    "rating": 8.6,
+    "trailerLink": "https://www.youtube.com/embed/zSWdZVtXT7E"
   },
   {
     "title": "Fight Club",
     "description": "An insomniac office worker and a charismatic soap salesman form an underground fight club that evolves into something much more.",
     "posterURL": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
-    "rating": 8.8
+    "rating": 8.8,
+    "trailerLink": "https://www.youtube.com/embed/qtRKdVHc-cE"
   },
   {
     "title": "The Shawshank Redemption",
     "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
     "posterURL": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-    "rating": 9.3
+    "rating": 9.3,
+    "trailerLink": "https://www.youtube.com/embed/PLl99DlL6b4"
   },
   {
     "title": "Pulp Fiction",
     "description": "The lives of several criminals intertwine in a series of violent and unexpected events in Los Angeles.",
     "posterURL": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-    "rating": 8.9
+    "rating": 8.9,
+    "trailerLink": "https://www.youtube.com/embed/s7EdQ4FqbhY"
   },
   {
     "title": "Forrest Gump",
     "description": "A kind-hearted man with a low IQ unintentionally influences several decades of American history through his simple but impactful actions.",
     "posterURL": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
-    "rating": 8.8
+    "rating": 8.8,
+    "trailerLink": "https://www.youtube.com/embed/bLvqoHBptjg"
   },
   {
     "title": "The Matrix",
     "description": "A computer hacker learns that the world he lives in is a simulated reality created by machines to control humanity.",
     "posterURL": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-    "rating": 8.7
+    "rating": 8.7,
+    "trailerLink": "https://www.youtube.com/embed/vKQi3bBA1y8"
   },
   {
     "title": "Gladiator",
     "description": "A betrayed Roman general becomes a slave and seeks revenge against the corrupt emperor who murdered his family.",
     "posterURL": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailerLink": "https://www.youtube.com/embed/owK1qxDselE"
   },
   {
     "title": "The Godfather",
     "description": "The aging patriarch of a powerful crime family transfers control of his empire to his reluctant son.",
     "posterURL": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-    "rating": 9.2
+    "rating": 9.2,
+    "trailerLink": "https://www.youtube.com/embed/sY1S34973zA"
   }
 ]
